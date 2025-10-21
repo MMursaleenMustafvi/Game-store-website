@@ -1,4 +1,5 @@
 🎮 Game Store Website
+
 Project Overview
 This Game Store Website is a robust, full-stack e-commerce simulation developed as a 4th-semester group project by M. Mursaleen Mustafvi and Taha Saleem. The primary goal of this project was to demonstrate a complete and interactive web application workflow, from responsive front-end design to secure back-end data management. It showcases a modern architecture using Node.js (Express) for server-side logic and SQL for persistent database storage.
 
