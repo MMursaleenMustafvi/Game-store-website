@@ -19,7 +19,7 @@ Full-Stack Implementation: Demonstrates a complete workflow across all tiers of 
 
 Backend (Server-Side): Built with Node.js using the Express.js framework for efficient routing and middleware management.
 
-Database (Data Tier): Utilizes a SQL database (e.g., MySQL or PostgreSQL) to manage persistent data, including user accounts, product details, and order history.
+Database (Data Tier): Utilizes a SQL database  to manage persistent data, including user accounts, product details, and order history.
 
 Frontend (Presentation Tier): Features dynamic and interactive content built with standard web technologies (HTML, CSS, JavaScript).
 
